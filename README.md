@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currenty working on some awesome projects that i would love to share with everyone 😊<br>I am currenyly learning a new programming language which is Dart , I will mainly use it with flutter to make some awesome apps 💎<br>
+I am currenty working on some awesome projects that i would love to share with everyone 😊<br>I am currenyl learning a new programming language which is Dart , I will mainly use it with flutter to make some awesome apps 💎<br>
 
 
 # 💻 Tech Stack:
